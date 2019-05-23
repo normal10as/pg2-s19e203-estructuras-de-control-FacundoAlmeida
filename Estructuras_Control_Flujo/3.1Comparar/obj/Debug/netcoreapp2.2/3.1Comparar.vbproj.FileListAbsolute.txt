@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\bin\Debug\netcoreapp2.2\3.1Comparar.deps.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\bin\Debug\netcoreapp2.2\3.1Comparar.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\bin\Debug\netcoreapp2.2\3.1Comparar.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\bin\Debug\netcoreapp2.2\3.1Comparar.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\bin\Debug\netcoreapp2.2\3.1Comparar.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\obj\Debug\netcoreapp2.2\3.1Comparar.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\obj\Debug\netcoreapp2.2\3.1Comparar.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\obj\Debug\netcoreapp2.2\3.1Comparar.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\obj\Debug\netcoreapp2.2\3.1Comparar.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\obj\Debug\netcoreapp2.2\3.1Comparar.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.1Comparar\obj\Debug\netcoreapp2.2\3.1Comparar.pdb
