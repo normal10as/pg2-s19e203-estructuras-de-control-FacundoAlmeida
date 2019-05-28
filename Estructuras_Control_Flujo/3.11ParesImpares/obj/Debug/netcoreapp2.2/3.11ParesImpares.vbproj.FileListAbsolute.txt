@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\bin\Debug\netcoreapp2.2\3.11ParesImpares.deps.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\bin\Debug\netcoreapp2.2\3.11ParesImpares.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\bin\Debug\netcoreapp2.2\3.11ParesImpares.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\bin\Debug\netcoreapp2.2\3.11ParesImpares.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\bin\Debug\netcoreapp2.2\3.11ParesImpares.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\obj\Debug\netcoreapp2.2\3.11ParesImpares.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\obj\Debug\netcoreapp2.2\3.11ParesImpares.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\obj\Debug\netcoreapp2.2\3.11ParesImpares.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\obj\Debug\netcoreapp2.2\3.11ParesImpares.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.11ParesImpares\obj\Debug\netcoreapp2.2\3.11ParesImpares.pdb
