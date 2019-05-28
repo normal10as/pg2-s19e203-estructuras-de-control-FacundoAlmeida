@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\bin\Debug\netcoreapp2.2\3.10MultiplosCinco.deps.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\bin\Debug\netcoreapp2.2\3.10MultiplosCinco.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\bin\Debug\netcoreapp2.2\3.10MultiplosCinco.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\bin\Debug\netcoreapp2.2\3.10MultiplosCinco.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\bin\Debug\netcoreapp2.2\3.10MultiplosCinco.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\obj\Debug\netcoreapp2.2\3.10MultiplosCinco.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\obj\Debug\netcoreapp2.2\3.10MultiplosCinco.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\obj\Debug\netcoreapp2.2\3.10MultiplosCinco.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\obj\Debug\netcoreapp2.2\3.10MultiplosCinco.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\obj\Debug\netcoreapp2.2\3.10MultiplosCinco.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.10MultiplosCinco\obj\Debug\netcoreapp2.2\3.10MultiplosCinco.vbprojAssemblyReference.cache
