@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\bin\Debug\netcoreapp2.2\3.8DiaMes.deps.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\bin\Debug\netcoreapp2.2\3.8DiaMes.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\bin\Debug\netcoreapp2.2\3.8DiaMes.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\bin\Debug\netcoreapp2.2\3.8DiaMes.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\bin\Debug\netcoreapp2.2\3.8DiaMes.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\obj\Debug\netcoreapp2.2\3.8DiaMes.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\obj\Debug\netcoreapp2.2\3.8DiaMes.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\obj\Debug\netcoreapp2.2\3.8DiaMes.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\obj\Debug\netcoreapp2.2\3.8DiaMes.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_Control_Flujo\3.8DiaMes\obj\Debug\netcoreapp2.2\3.8DiaMes.pdb
