@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.1Compaar\\3.1Compaar.vbproj": {}
+    "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.1Compaar\\3.1Compaar.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.1Compaar\\3.1Compaar.vbproj": {
+    "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.1Compaar\\3.1Compaar.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.1Compaar\\3.1Compaar.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.1Compaar\\3.1Compaar.vbproj",
         "projectName": "3.1Compaar",
-        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.1Compaar\\3.1Compaar.vbproj",
+        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.1Compaar\\3.1Compaar.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.1Compaar\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.1Compaar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\bin\Debug\netcoreapp2.2\3.9ConversionMedidas.deps.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\bin\Debug\netcoreapp2.2\3.9ConversionMedidas.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\bin\Debug\netcoreapp2.2\3.9ConversionMedidas.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\bin\Debug\netcoreapp2.2\3.9ConversionMedidas.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\bin\Debug\netcoreapp2.2\3.9ConversionMedidas.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\obj\Debug\netcoreapp2.2\3.9ConversionMedidas.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\obj\Debug\netcoreapp2.2\3.9ConversionMedidas.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\obj\Debug\netcoreapp2.2\3.9ConversionMedidas.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\obj\Debug\netcoreapp2.2\3.9ConversionMedidas.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\obj\Debug\netcoreapp2.2\3.9ConversionMedidas.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.9ConversionMedidas\obj\Debug\netcoreapp2.2\3.9ConversionMedidas.pdb

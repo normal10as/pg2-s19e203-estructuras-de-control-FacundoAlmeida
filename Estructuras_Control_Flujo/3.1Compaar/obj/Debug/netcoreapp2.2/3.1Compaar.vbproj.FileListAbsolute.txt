@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\bin\Debug\netcoreapp2.2\3.1Compaar.deps.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\bin\Debug\netcoreapp2.2\3.1Compaar.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\bin\Debug\netcoreapp2.2\3.1Compaar.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\bin\Debug\netcoreapp2.2\3.1Compaar.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\bin\Debug\netcoreapp2.2\3.1Compaar.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\obj\Debug\netcoreapp2.2\3.1Compaar.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\obj\Debug\netcoreapp2.2\3.1Compaar.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\obj\Debug\netcoreapp2.2\3.1Compaar.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\obj\Debug\netcoreapp2.2\3.1Compaar.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\obj\Debug\netcoreapp2.2\3.1Compaar.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.1Compaar\obj\Debug\netcoreapp2.2\3.1Compaar.pdb

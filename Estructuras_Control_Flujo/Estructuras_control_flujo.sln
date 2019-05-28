@@ -17,6 +17,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.6Venta2.0", "3.6Venta2.0\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.7Angulo", "3.7Angulo\3.7Angulo.vbproj", "{54C23F01-8BA0-4768-8F77-6DC0F4E562A1}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.9ConversionMedidas", "3.9ConversionMedidas\3.9ConversionMedidas.vbproj", "{22DDB5F9-2E96-4F6D-97BD-A087B32E7DFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{54C23F01-8BA0-4768-8F77-6DC0F4E562A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54C23F01-8BA0-4768-8F77-6DC0F4E562A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54C23F01-8BA0-4768-8F77-6DC0F4E562A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DDB5F9-2E96-4F6D-97BD-A087B32E7DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DDB5F9-2E96-4F6D-97BD-A087B32E7DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DDB5F9-2E96-4F6D-97BD-A087B32E7DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DDB5F9-2E96-4F6D-97BD-A087B32E7DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
