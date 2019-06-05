@@ -14,9 +14,6 @@ Module Program
         octubre
         noviembre
         diciembre
-
-
-
     End Enum
     Sub Main(args As String())
 

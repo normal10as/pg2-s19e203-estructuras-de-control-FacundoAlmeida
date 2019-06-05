@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\obj\Debug\netcoreapp2.2\3.12Fibonacci.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\obj\Debug\netcoreapp2.2\3.12Fibonacci.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\obj\Debug\netcoreapp2.2\3.12Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\obj\Debug\netcoreapp2.2\3.12Fibonacci.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\bin\Debug\netcoreapp2.2\3.12Fibonacci.deps.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\bin\Debug\netcoreapp2.2\3.12Fibonacci.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\bin\Debug\netcoreapp2.2\3.12Fibonacci.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\bin\Debug\netcoreapp2.2\3.12Fibonacci.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\bin\Debug\netcoreapp2.2\3.12Fibonacci.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\obj\Debug\netcoreapp2.2\3.12Fibonacci.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.12Fibonacci\obj\Debug\netcoreapp2.2\3.12Fibonacci.pdb

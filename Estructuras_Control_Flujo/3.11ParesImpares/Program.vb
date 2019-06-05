@@ -22,9 +22,4 @@ Module Program
 
 
     End Sub
-    Function IngresarValor()
-        Dim valor As Integer
-        Console.WriteLine("Ingrese un valor: ")
-        valor = Console.ReadLine()
-    End Function
 End Module

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.11ParesImpares\\3.11ParesImpares.vbproj": {}
+    "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.11ParesImpares\\3.11ParesImpares.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.11ParesImpares\\3.11ParesImpares.vbproj": {
+    "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.11ParesImpares\\3.11ParesImpares.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.11ParesImpares\\3.11ParesImpares.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.11ParesImpares\\3.11ParesImpares.vbproj",
         "projectName": "3.11ParesImpares",
-        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.11ParesImpares\\3.11ParesImpares.vbproj",
+        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.11ParesImpares\\3.11ParesImpares.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_Control_Flujo\\3.11ParesImpares\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e203-estructuras-de-control-FacundoAlmeida\\Estructuras_control_flujo\\3.11ParesImpares\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

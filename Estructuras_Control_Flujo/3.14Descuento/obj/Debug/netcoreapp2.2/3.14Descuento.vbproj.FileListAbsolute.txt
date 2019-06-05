@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\bin\Debug\netcoreapp2.2\3.14Descuento.deps.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\bin\Debug\netcoreapp2.2\3.14Descuento.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\bin\Debug\netcoreapp2.2\3.14Descuento.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\bin\Debug\netcoreapp2.2\3.14Descuento.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\bin\Debug\netcoreapp2.2\3.14Descuento.pdb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\obj\Debug\netcoreapp2.2\3.14Descuento.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\obj\Debug\netcoreapp2.2\3.14Descuento.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\obj\Debug\netcoreapp2.2\3.14Descuento.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\obj\Debug\netcoreapp2.2\3.14Descuento.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\obj\Debug\netcoreapp2.2\3.14Descuento.dll
+C:\Users\Facu\source\repos\pg2-s19e203-estructuras-de-control-FacundoAlmeida\Estructuras_control_flujo\3.14Descuento\obj\Debug\netcoreapp2.2\3.14Descuento.pdb
